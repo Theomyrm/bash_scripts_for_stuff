@@ -1,0 +1,3 @@
+Este script fue realizado por Elrik Miralda.
+Para que este script funcione correctamente, 
+necesita ser posicionado en la carpeta ~/
